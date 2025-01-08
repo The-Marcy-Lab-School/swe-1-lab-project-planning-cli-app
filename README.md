@@ -1,5 +1,5 @@
-# 1.0.3 Lab: Project Planning with a CLI App
-- [1.0.3 Lab: Project Planning with a CLI App](#103-lab-project-planning-with-a-cli-app)
+# Lab: Project Planning with a CLI App
+- [Lab: Project Planning with a CLI App](#103-lab-project-planning-with-a-cli-app)
   - [Welcome to your first Node lab!](#welcome-to-your-first-node-lab)
   - [Goals](#goals)
   - [CLI vs GUI](#cli-vs-gui)
